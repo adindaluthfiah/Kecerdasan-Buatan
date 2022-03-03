@@ -1,4 +1,6 @@
-; ===== MELAKUKAN DIAGNOSIS SEMENTARA TUBERKULOSIS =====
+;=== Adinda Luthfiah S ===
+;=== 20/463587/TK/51579 ===
+;===== MELAKUKAN DIAGNOSIS SEMENTARA TUBERKULOSIS =====
 
 ; Melakukan identifikasi gejala TBC
 (defrule exposedppl
